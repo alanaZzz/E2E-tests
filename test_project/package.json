@@ -1,0 +1,22 @@
+{
+  "name": "test_project",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alanaZzz/E2E-tests.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alanaZzz/E2E-tests/issues"
+  },
+  "homepage": "https://github.com/alanaZzz/E2E-tests#readme",
+  "devDependencies": {
+    "cypress": "^9.6.1"
+  }
+}
